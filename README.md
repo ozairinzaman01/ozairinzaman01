@@ -5,7 +5,7 @@ Bachelor of IT graduate from Fiji, building practical skills in IT support, netw
 ## What I've worked on
 - **Security labs:** vulnerability scanning and exploitation of Metasploitable2 and DVWA in a controlled lab, using Kali Linux, Nmap, Nessus and Metasploit
 - **Data and BI:** dropout analysis using R and Power BI on a small illustrative dataset
-- **Web and apps:** a multi-page portfolio site, an Android food-ordering app and a VB.NET inventory system
+- **Web:** a multi-page responsive portfolio site (HTML, CSS, JavaScript)
 
 ## Hands-on experience
 Troubleshooting computers, POS systems, printers and Wi-Fi in small retail businesses in Fiji, alongside customer service and record-keeping.
@@ -14,7 +14,7 @@ Troubleshooting computers, POS systems, printers and Wi-Fi in small retail busin
 Windows · Android · Kali Linux · Nmap · Wireshark · Nessus · R · Power BI · SQL · HTML/CSS · Git
 
 ## Currently
-Studying CompTIA A+ topics and building IT support practice projects, such as a ticket log and knowledge-base articles.
+Studying CompTIA A+ topics and practising IT support skills in hands-on labs.
 
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/ozair-inzaman-50796b207) · ozair.inzaman01@gmail.com
